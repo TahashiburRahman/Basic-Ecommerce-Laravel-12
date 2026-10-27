@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#F2F7F3"/>
+  <rect x="50" y="70" width="700" height="360" rx="28" fill="#DDEFE4"/>
+  <circle cx="260" cy="250" r="90" fill="#1F5A3D" opacity="0.18"/>
+  <path d="M190 250 L260 190 L330 250 V310 H190 Z" fill="#1F5A3D" opacity="0.32"/>
+  <text x="420" y="250" text-anchor="middle" font-size="48" font-family="Arial, sans-serif" fill="#184A35" font-weight="700">Category</text>
+</svg>

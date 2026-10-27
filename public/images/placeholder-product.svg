@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#EAF8EE"/>
+  <rect x="120" y="140" width="560" height="560" rx="32" fill="#D9F3E3"/>
+  <path d="M295 430 L405 330 L515 430 L515 610 L295 610 Z" fill="#1F5A3D" opacity="0.15"/>
+  <path d="M345 400 L405 350 L465 400 L465 610 L345 610 Z" fill="#1F5A3D" opacity="0.28"/>
+  <rect x="270" y="660" width="260" height="52" rx="26" fill="#1F5A3D" opacity="0.85"/>
+  <text x="400" y="338" text-anchor="middle" font-size="52" font-family="Arial, sans-serif" fill="#1F5A3D" font-weight="700">Product</text>
+</svg>
